@@ -24,7 +24,7 @@ Selecting only last 5 years of datasets as it is the most recent and important t
 * Overall Income, Citations and Research plays a major role for univeristy rankings.
 * Priceton university led the top with 40k+ students enrolment in 2023.
 
-Technologies and Tools
+# Technologies and Tools
 * Python
 * Pandas
 * Plotly
